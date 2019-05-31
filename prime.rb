@@ -5,6 +5,3 @@ def is_prime n
    end
   end
 
-def prime?(integer)
-end
-
